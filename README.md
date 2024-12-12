@@ -5,4 +5,4 @@ kodland
 > İklim Değişikliği
 
 ## Projede Kullanılan Diller:
-> HTML, Aİ(Yapay Zeka)
+> HTML, Yapay Zeka
