@@ -2,4 +2,7 @@
 kodland
 
 ## Projemin fikri:
-> İklim Değişikliği_
+> İklim Değişikliği
+
+## Projede Kullanılan Diller:
+> HTML, Aİ(Yapay Zeka)
